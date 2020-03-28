@@ -13,7 +13,7 @@ from email.mime.text import MIMEText
 
 subject = "Tickets | TEDxCUSAT"
 sender_email = "admin@tedxcusat.in"
-password = "tedx@cusat19"
+password = ""
 # password = input("Type your password and press enter:")
 
 
